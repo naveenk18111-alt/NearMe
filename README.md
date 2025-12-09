@@ -289,8 +289,7 @@ Fairy Falls in Kodaikanal is a charming, small, seasonal waterfall fed by a rese
 </div>
 </body>
 </html>
-'''
-
+```
 ## OUTPUT
 ![alt text](1.png)
 ![alt text](2.png)
