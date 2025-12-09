@@ -57,7 +57,7 @@ map.html
 </html>
 ```
 hillstation.html
-
+```
 <html>
 <head><title>Kodaikanal Hill Station</title>
 <style type="text/css">
@@ -105,9 +105,9 @@ Kodaikanal is a picturesque hill station located in the Palani Hills of the West
 </div>
 </body>
 </html>
-
+```
 offroad.html
-
+```
 <html>
 <head><title>Offroad Jeep Safari</title>
 <style type="text/css">
@@ -150,9 +150,9 @@ offroad.html
 </div>
 </body>
 </html>
-
+```
 silvercascadefalls.html
-
+```
 <html>
 <head><title>Silver Cascade Falls</title>
 <style type="text/css">
@@ -197,9 +197,9 @@ Silver Cascade Falls is a picturesque 180-foot waterfall located on the Madurai-
 </div>
 </body>
 </html>
-
+```
 solarobservermuseum.html
-
+```
 <html>
 <head><title>Kodaikanal Solar Observatory Museum</title>
     <style type="text/css">
@@ -243,9 +243,9 @@ solarobservermuseum.html
 </div>  
 </body>
 </html>
-
+```
 fairyfalls.html
-
+```
 <html>
 <head><title>Fairy Falls</title>
 <style type="text/css">
